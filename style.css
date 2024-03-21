@@ -67,6 +67,34 @@ img {
     border
 }
 
+.quote{
+    display: flex;
+    background-color: #e5e7eb; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+p{
+    font-family: light italic;
+    font-size: 36px;
+    color: #1F2937;
+}
+
+.author{
+    display: flex;
+    align-self: end;
+    font-size: bold;
+}
+
+.subs-banner,
+.banner-text,
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
 /*
 
 .header,

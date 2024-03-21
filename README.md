@@ -9,3 +9,7 @@ Working on the header first
 Day 2:
 Start with hero HTML structure
 if there is enough time continue with CSS
+
+
+Day 3 1/8/2023
+rework HTML & CSS to use flex direction column
