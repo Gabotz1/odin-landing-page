@@ -7,7 +7,6 @@ body{
 .header,
 .main-1,
 .footer,
-.item-display,
 ul {
     background-color: #1F2937;
     display: flex;
@@ -29,17 +28,26 @@ ul{
     align-items: center;
 }
 
-.main-2 {
-    display: flex;
-    flex-direction: column;
-    align-items:center;
-}
-
+.main-2,
 .item-display {
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+    flex-direction: column;
+    justify-content: center;
+}
 
+.tittle2{
+    display: flex;
+    align-self: center;
+}
+
+.main2-items {
+    display: flex;
+    justify-content: space-around;
+}
+
+h6 {
+    display: flex;
+    align-self: center;
 }
 
 
