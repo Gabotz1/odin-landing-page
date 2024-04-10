@@ -19,3 +19,8 @@ Added pictures:
     3x3x3: Image by <a href="https://pixabay.com/users/vitamin-966515/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=802889">M Ameen</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=802889">Pixabay</a>
 
     4x4x4: taken from wikipedia
+
+Day 4: 4/9/2024
+Some more pics and quote section (Main3).
+
+
