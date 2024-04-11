@@ -23,4 +23,8 @@ Added pictures:
 Day 4: 4/9/2024
 Some more pics and quote section (Main3).
 
+Day 5: 4/10/2024:
+
+
+
 

@@ -72,6 +72,30 @@ h6 {
     padding-right: 50px;
 }
 
+.banner,
+button {
+    background-color: #3882F6;
+    font-size: 18px;
+    color: #E5E7EB;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+h3,
+.sign-up {
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+}
+
+.main-4 {
+    padding: 90px;
+}
+
 
 
 
