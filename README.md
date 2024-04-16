@@ -24,6 +24,10 @@ Day 4: 4/9/2024
 Some more pics and quote section (Main3).
 
 Day 5: 4/10/2024:
+not remember, but info is included on commits notes.
+
+Day 6: 4/12/2024:
+Finish buttons and upload the project.
 
 
 

@@ -70,6 +70,8 @@ h6 {
     flex-direction: column;
     align-self: flex-end;
     padding-right: 50px;
+    margin-right: 70px;
+    margin-bottom: 30px;
 }
 
 .banner,
@@ -81,7 +83,7 @@ button {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    padding: 20px;
+    padding: 30px;
 }
 
 h3,
@@ -94,6 +96,18 @@ h3,
 
 .main-4 {
     padding: 90px;
+}
+
+button{
+    padding: 10px;
+    padding-inline: 30px;
+    border: 0px;
+    border-radius: 10px;
+}
+
+.button2 {
+    border: 1px solid;
+
 }
 
 
